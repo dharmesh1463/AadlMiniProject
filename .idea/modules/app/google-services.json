@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "879087016827",
+    "firebase_url": "https://house-renatl.firebaseio.com",
+    "project_id": "house-renatl",
+    "storage_bucket": "house-renatl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879087016827:android:2e5fd7c0a8bc93c6173bde",
+        "android_client_info": {
+          "package_name": "com.example.practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879087016827-v88rj3n0j8i35grnqhbgkutvv1c740jn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.practice",
+            "certificate_hash": "13f51dfd986e85cacbce2f85fa403cee49686164"
+          }
+        },
+        {
+          "client_id": "879087016827-kkgqp7th4qnrsabh40g318qmjutdjl9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA68aYcGeDxVbgbkIiqIfd3rM1bW9FubEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879087016827-kkgqp7th4qnrsabh40g318qmjutdjl9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
